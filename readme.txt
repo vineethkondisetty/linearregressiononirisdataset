@@ -1,5 +1,4 @@
-Name : Venkata Naga Satya Sai Vineeth
-UTA ID : 1001772021
+
 Application Used: Spyder
 Language Used: Python 3.7
 
